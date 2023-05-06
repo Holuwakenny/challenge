@@ -1,12 +1,12 @@
-Customer,Location,Sales,%,Expected output
-Hammed,Ibadan,100,0.51,0.51
-Hammed,Lagos,50,0.51,0.51
-Hammed,Abuja,20,0.51,0.51
-Hammed,Ghana,100,0.51,0.51
-Kayode,TX,40,0.26,0.77
-Kayode,NC,80,0.26,0.77
-Kayode,MC,20,0.26,0.77
-Timi,NY,30,0.22,0.99
-Timi,LN,10,0.22,0.99
-Timi,WL,60,0.22,0.99
-Timi,ND,20,0.22,0.99
+Customer,Location,Sales,%,
+Hammed,Ibadan,100,0.51
+Hammed,Lagos,50,0.51
+Hammed,Abuja,20,0.51
+Hammed,Ghana,100,0.51
+Kayode,TX,40,0.26
+Kayode,NC,80,0.26
+Kayode,MC,20,0.26
+Timi,NY,30,0.22
+Timi,LN,10,0.22
+Timi,WL,60,0.22
+Timi,ND,20,0.22
